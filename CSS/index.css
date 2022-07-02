@@ -2,6 +2,7 @@ body{
     margin-left: 7rem;
     margin-right: 7rem;
     font-family: 'Space Grotesk', sans-serif;
+    background-color: #FAFAFA;
 }
 .nav{
     display: flex;
@@ -103,4 +104,34 @@ p span{
     height: 500px;
     width: 750px;
     
+}
+.second{
+    display: flex;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    background-color:white ;
+    justify-content: space-around;
+    border-radius: 0.5rem;
+}
+h2{
+    color: #2549d3;
+
+}
+.head{
+    display: flex;
+}
+.search button{
+    background-color: #2549d3;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border-width: 0px;
+    
+}
+.search button a{
+    color: white;
+    text-decoration: none;
+}
+.search{
+    margin-top: 2rem;
 }
