@@ -1,0 +1,58 @@
+body{
+    margin-left: 7rem;
+    margin-right: 7rem;
+}
+.nav{
+    display: flex;
+    font-size: larger;
+
+}
+.estate{
+    width: 30%;
+    margin-top: 1em;
+
+
+}
+.estate a{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Oleo Script', cursive;
+    font-size: 30px;
+}
+.nav-list ul{
+display: flex;
+justify-content: space-around;
+list-style: none;
+
+}
+.nav-list{
+    width: 40%;
+
+}
+.nav-list ul li a{
+    color: black;
+    text-decoration: none;
+ 
+
+
+}
+.nav-button{
+    margin-left: 18rem;
+    margin-top: 1rem;
+
+
+
+}
+.nav-button button{
+    background-color: #2549d3;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border-width: 0px;
+}
+.nav-button button a{
+    color: white;
+    text-decoration: none;
+}
+
