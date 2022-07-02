@@ -1,6 +1,7 @@
 body{
     margin-left: 7rem;
     margin-right: 7rem;
+    font-family: 'Space Grotesk', sans-serif;
 }
 .nav{
     display: flex;
@@ -55,4 +56,51 @@ list-style: none;
     color: white;
     text-decoration: none;
 }
+.first{
+    display: flex;
+    margin-top: 4rem;
+}
+.text{
+    width: 50%;
+}
+.icon{
+    display: flex;
+    margin-top: 2rem;
+}
 
+.button button{
+    background-color: #2549d3;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border-width: 0px;
+}
+.button button a{
+    color: white;
+    text-decoration: none;
+}
+.play{
+    margin-left: 2rem;
+}
+.play button{
+    background-color: #2549d3;
+    border-radius: 100%;
+
+}
+h1 span{
+    display: block;
+    font-size: 70px;
+    color: #2549d3;
+}
+p span{
+    display: block;
+    font-size:35px ;
+}
+.img{
+    width: 50%;
+}
+.img img{
+    height: 500px;
+    width: 750px;
+    
+}
