@@ -135,3 +135,30 @@ h2{
 .search{
     margin-top: 2rem;
 }
+.products{
+    margin-top: 4rem;
+}
+h3{
+    color: #2549d3;
+    margin-top: 3rem;
+
+    font-size: 40px;
+}
+h4{
+    text-align: center;
+    color: #2549d3;
+    font-size: 40px;
+    margin-top: 1rem;
+
+}
+.products p{
+    font-size: 20px;
+    
+    text-align: center;
+
+}
+
+    
+
+
+
