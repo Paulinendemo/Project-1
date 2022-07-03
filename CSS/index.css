@@ -247,4 +247,26 @@ h4{
     color: white;
     text-decoration: none;
 }
+.text-centre p{
+    font-size: 30px;
+}
+.sixth{
+    display: flex;
+    justify-content: space-between;
+
+}
+.sixth h5{
+    font-size: 40px;
+}
+.sixth h6{
+    font-size: 25px;
+}
+.sixth p span{
+    display: block;
+    font-size: 20px;
+}
+.sis{
+    background-color: white;
+    padding: 2rem;
+}
 
