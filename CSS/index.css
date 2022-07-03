@@ -235,6 +235,7 @@ h4{
 }
 .view{
     float: right;
+    margin-top: 3rem;
 }
 .view button{
     background-color: #2549d3;
@@ -268,5 +269,20 @@ h4{
 .sis{
     background-color: white;
     padding: 2rem;
+    
+}
+.footer{
+    background-color: #2549d3;
+    color: white;
+    display: flex;
+    margin-top: 6.5rem;
+    justify-content: space-around;
+    padding-bottom: 6rem;
+    
+    
+}
+.footer .es{
+    font-family: 'Oleo Script', cursive;
+
 }
 
