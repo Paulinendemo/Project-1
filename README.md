@@ -13,7 +13,7 @@ This is a website that shows the Vallie's Estate. it contains all the informatio
 ## Technology Used 
 HTML- which was used to build the structure of the pages.
 
-CSS - which was used to style the pages incuding the left aside navigation bar
+CSS - which was used to style the pages.
 
 Reference Materialize CSS
 
