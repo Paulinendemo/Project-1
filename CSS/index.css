@@ -209,4 +209,17 @@ h4{
     margin-top: 4rem;
     margin-left: 3rem;
 }
+.text-centre h1{
+    color: #2549d3;
+    font-size: 60px;
+
+}
+.text-centre{
+    text-align: center;
+    margin-top: 4rem;
+}
+.text-centre p span{
+    display: block;
+    font-size: 30px;
+}
 
