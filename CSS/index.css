@@ -93,7 +93,7 @@ h1 span{
     font-size: 70px;
     color: #2549d3;
 }
-p span{
+.text p span{
     display: block;
     font-size:35px ;
 }
@@ -181,5 +181,32 @@ h4{
     margin-left: 5.5rem;
 
 }
+.text1 h1{
+    color: #2549d3;
+    font-size: 50px;
 
+
+
+    
+}
+.text1 p span{
+    font-size: 30px;
+}
+.icons{
+    display: flex;
+    margin-top: 1rem;
+    justify-content: space-between;
+}
+.three{
+    margin-right: 9rem;
+}
+.icons a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.text1{
+    margin-top: 4rem;
+    margin-left: 3rem;
+}
 
