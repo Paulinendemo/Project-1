@@ -222,4 +222,29 @@ h4{
     display: block;
     font-size: 30px;
 }
+.fifth{
+    display: flex;
+    justify-content: space-between;
+}
+.fifth img{
+    width: 450px;
+}
+.text2{
+    display: flex;
+    justify-content: space-around;
+}
+.view{
+    float: right;
+}
+.view button{
+    background-color: #2549d3;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border-width: 0px;
+}
+.view button a{
+    color: white;
+    text-decoration: none;
+}
 
