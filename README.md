@@ -15,7 +15,6 @@ HTML- which was used to build the structure of the pages.
 
 CSS - which was used to style the pages.
 
-Reference Materialize CSS
 
 ## License 
 MIT License
